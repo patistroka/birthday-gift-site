@@ -1,0 +1,120 @@
+body {
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+    background: linear-gradient(#8D99AE, #2B2D42);
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px #EDF2F4;
+}
+
+#bff-img {
+    width: 200px;
+    border-radius: 50%;
+    border: 6px solid #83d0cb;
+    margin-bottom: 10px;
+}
+
+#bday-age {
+    background: #83d0cb;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date {
+    margin: 0;
+    background: #83d0cb;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cover-section {
+    margin-top: 50px;
+}
+
+.cover-title {
+    margin-bottom: 10px;
+}
+
+.cover-hint {
+    margin-top: 0;
+}
+
+.cover-img {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid #83d0cb;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+#cover-img-smile {
+    background-image: url("images/cover-smile.jpg");
+}
+
+#cover-img-smile:hover {
+    background-image: url("images/smile.gif");
+}
+
+#cover-img-moves {
+    background-image: url("images/cover-moves.jpg");
+}
+
+#cover-img-moves:hover {
+    background-image: url("images/moves.gif");
+}
+
+#cover-img-dinner {
+    background-image: url("images/cover-dinner.jpg");
+}
+
+#cover-img-dinner:hover {
+    background-image: url("images/dinner.gif");
+}
+
+#cover-img-roll {
+    background-image: url("images/cover-roll.jpg");
+}
+
+#cover-img-roll:hover {
+    background-image: url("images/roll.gif");
+}
+
+#cover-img-bubbles {
+    background-image: url("images/cover-bubbles.jpg");
+}
+
+#cover-img-bubbles:hover {
+    background-image: url("images/bubbles.gif");
+}
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: white;
+}
+
+/* 
+Add the footer paragraph according to the design. 
+Configure the anchor tag to open the link in a new tab.
+Forgotten how to do it? Google it! 
+
+Link: 
+https://scrimba.com/learn/htmlandcss
+
+Text:
+Want to create your own Birthday GIFt site? Take this HTML & CSS course.
+*/
