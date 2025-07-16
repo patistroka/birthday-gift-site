@@ -30,7 +30,7 @@ This project is a fun birthday celebration website built as part of the **Scrimb
 
 ## 🔗 Live Demo
 
-👉 [View the site here](#)
+👉 [View the site here](https://scrimba-giftbirthdayproject.netlify.app/)
 
 ---
 
